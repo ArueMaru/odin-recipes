@@ -1,1 +1,1 @@
-Create a recipe website
+https://aruemaru.github.io/odin-recipes/
